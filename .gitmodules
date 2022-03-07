@@ -1,3 +1,6 @@
 [submodule "Examination-Helper-Frontend"]
 	path = Examination-Helper-Frontend
 	url = https://github.com/tanyarajpal/Examination-Helper-Frontend.git
+[submodule "Examination-Helper-Backend"]
+	path = Examination-Helper-Backend
+	url = https://github.com/tanyarajpal/Examination-Helper-Backend.git
