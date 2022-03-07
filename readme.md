@@ -1,3 +1,2 @@
 ### Examination Helper
-
-examination-helper-frontend.vercel.app
+[Website](https://examination-helper-frontend.vercel.app)
